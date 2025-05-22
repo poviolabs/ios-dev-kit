@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Pulse",
+        "repositoryURL": "https://github.com/kean/Pulse.git",
+        "state": {
+          "branch": null,
+          "revision": "6125ce7fb51b114ba71b761d18cfd5557923bd4d",
+          "version": "5.1.4"
+        }
+      },
+      {
+        "package": "PulseLogHandler",
+        "repositoryURL": "https://github.com/kean/PulseLogHandler.git",
+        "state": {
+          "branch": null,
+          "revision": "477e9ef76615f0b76b43bb502af432fe6750b704",
+          "version": "5.1.0"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "3d8596ed08bd13520157f0355e35caed215ffbfa",
+          "version": "1.6.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
